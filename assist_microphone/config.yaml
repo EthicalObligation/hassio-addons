@@ -1,9 +1,9 @@
 ---
 version: 2.2.3
-slug: assist_microphone
-name: Assist Microphone
+slug: assist_microphone_clone
+name: Assist Microphone Clone
 description: Stream microphone audio to Assist
-url: https://github.com/rhasspy/hassio-addons
+url: https://github.com/EthicalObligation/hassio-addons
 hassio_api: true
 arch:
   - amd64
